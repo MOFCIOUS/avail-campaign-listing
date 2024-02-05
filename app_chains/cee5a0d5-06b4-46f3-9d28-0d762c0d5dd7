@@ -1,0 +1,8 @@
+{
+  "name": "mofcious",
+  "logo": "https://i.ibb.co/1snKbfP/logo.png",
+  "rpc_url": "http://37.152.180.28:9944",
+  "explorer_url": "http://37.152.180.28:4000",
+  "metrics_endpoint": "http://37.152.180.28:9615/metrics",
+  "id": "cee5a0d5-06b4-46f3-9d28-0d762c0d5dd7"
+}
